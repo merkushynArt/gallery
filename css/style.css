@@ -80,11 +80,11 @@ h1, h2, h3, h4 {
 }
 
 .frame-media__left {
-	right: calc(var(--side-small) / 2 * var(--index) + var(--gutter));
+	right: calc(var(--side-small) / 2.4 * var(--index) + var(--gutter));
 }
 
 .frame-media__right {
-	left: calc(var(--side-small) / 2 * var(--index) + var(--gutter));
+	left: calc(var(--side-small) / 2.4 * var(--index) + var(--gutter));
 }
 
 .frame__bg {
